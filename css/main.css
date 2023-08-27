@@ -66,6 +66,10 @@ list-style-type: none;
 }
 
 /* Testimonials */
+.testimonial-container .testimonial {
+  border-radius: 15px;
+}
+
 .testimonial {
   border: 1px solid #ccc;
   padding: 20px;
